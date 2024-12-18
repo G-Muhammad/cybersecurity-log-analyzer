@@ -1,0 +1,20 @@
+2024-12-16 16:21:44,775 - WARNING: Disk space running low on drive /dev/sda2
+2024-12-16 16:21:44,877 - ERROR: Failed login attempt for user 'user1'
+2024-12-16 16:21:44,978 - INFO: User 'user2' logged in successfully
+2024-12-16 16:21:45,080 - ERROR: Failed login attempt for user 'user3'
+2024-12-16 16:21:45,181 - INFO: User 'user4' logged in successfully
+2024-12-16 16:21:45,281 - WARNING: Disk space running low on drive /dev/sda1
+2024-12-16 16:21:45,382 - WARNING: Disk space running low on drive /dev/sda1
+2024-12-16 16:21:45,483 - WARNING: Disk space running low on drive /dev/sda1
+2024-12-16 16:21:45,584 - ERROR: Failed login attempt for user 'user8'
+2024-12-16 16:21:45,685 - INFO: User 'user9' logged in successfully
+2024-12-16 16:21:45,786 - INFO: User 'user10' logged in successfully
+2024-12-16 16:21:45,887 - WARNING: Disk space running low on drive /dev/sda2
+2024-12-16 16:21:45,988 - WARNING: Disk space running low on drive /dev/sda1
+2024-12-16 16:21:46,089 - WARNING: Disk space running low on drive /dev/sda2
+2024-12-16 16:21:46,190 - WARNING: Disk space running low on drive /dev/sda1
+2024-12-16 16:21:46,290 - WARNING: Disk space running low on drive /dev/sda1
+2024-12-16 16:21:46,391 - INFO: User 'user16' logged in successfully
+2024-12-16 16:21:46,492 - WARNING: Disk space running low on drive /dev/sda1
+2024-12-16 16:21:46,592 - INFO: User 'user18' logged in successfully
+2024-12-16 16:21:46,693 - ERROR: Failed login attempt for user 'user19'
